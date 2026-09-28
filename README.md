@@ -53,14 +53,14 @@ BankScreen transforms raw candidate data into actionable hiring intelligence thr
 
 ## 💡 My Role & Contributions (Hessa Khalfan)
 
-As a core team member, my primary responsibilities focused on data management, workflow logic, and ensuring the transparency of the AI system:
+As a core team member, my primary responsibilities focused on interface design, dashboard configuration, and AI-assisted visual generation:
 
-*   **Data Architecture & Form Logic:** Designed and configured the "Add New Candidate" form, implementing strict validation rules and conditional logic for accurate HR data entry.
-*   **Data Management & State Synchronization:** Managed applicant records and database state, ensuring real-time synchronization between candidate statuses (e.g., Shortlisted, Rejected), the main dashboard, and applicant tables.
-*   **Algorithmic Transparency:** Configured the dynamic **Score Breakdown panel**. This was a critical feature to ensure the AI's point-by-point calculation was fully transparent, explainable, and trustworthy for HR users.
-*   **Quality Assurance (UAT):** Conducted rigorous User Acceptance Testing (UAT) across all screens, specifically validating the AI Assistant's responses against real-world banking compliance scenarios.
+*   **UI/UX Design & Theming:** Customized the visual theme and layout using Lovable, ensuring a clean, navy blue and white color scheme that meets professional banking standards.
+*   **Dashboard & Data Visualization:** Configured the main Dashboard screen to display accurate summary statistics, binding metric cards (e.g., Total Applicants, Shortlisted) to live database queries for real-time updates.
+*   **Smart Filters & Workflow Logic:** Designed and set up the Smart Filters panel, implementing complex conditional visibility settings to ensure seamless filtering by position, status, and security clearance.
+*   **AI Diagram Generation:** Utilized external AI image generation tools to create the end-to-end process diagrams, prompting, refining, and annotating them to match the exact recruitment workflow.
 
-This project demonstrated how AI-powered no-code tools can be leveraged to build functional, real-world business applications, emphasizing the importance of logic, data validation, and AI explainability.
+This project demonstrated how AI-powered no-code platforms can be leveraged to build functional, real-world business applications, emphasizing the importance of user-centered design, visual clarity, and effective cross-team collaboration.
 
 ---
 
